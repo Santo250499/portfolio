@@ -1,0 +1,68 @@
+MD TANVIR MANNAN
+ICT SUPPORT & SYSTEMS PROFESSIONAL | BUILDING AI AND AUTOMATION TOOLS
+Gold Coast, QLD  |  mdtanvirmannan@gmail.com  |  linkedin.com/in/md-tanvir-mannan-517839217  |  github.com/Santo250499
+
+PROFESSIONAL SUMMARY
+ICT support professional with 3.5+ years in IT support, currently supporting 2,200+ users across 20+ Lutheran Services sites as an ICT Support Officer (since Aug 2024). Works across Microsoft 365, Entra ID, Intune and Windows Autopilot; has deployed and configured 500+ Windows devices, contributed to a Windows 11 rollout of approximately 500 endpoints, and manages approximately 100 Jira support requests a week. Applies AI-assisted automation to Jira service workflows using Atlassian Rovo and works directly with staff to turn day-to-day operational problems into tested, documented solutions. Outside work, builds AI and automation tools in Python, FastAPI, Streamlit and PowerShell, including a résumé-to-job matching API, an AI job application assistant, a claim payment-status calculator and a lab PowerShell toolkit for Microsoft 365 user onboarding and offboarding. Open to IT support, systems administration and AI or automation roles.
+
+CORE SKILLS
+Enterprise IT & Systems: Microsoft 365 (Entra ID, Exchange Online, SharePoint, OneDrive, Teams) - Intune - Windows Autopilot - Windows 10/11 - Windows Server - Active Directory - Group Policy - MFA & Conditional Access - PowerShell - Microsoft Defender - Azure - Apple Business Manager - iOS & Android Management - Enterprise Telephony - Networking (DNS, DHCP, VPN, Wi-Fi) - Jira Service Management
+Generative AI & Automation: Microsoft Copilot - ChatGPT (Business) - Anthropic Claude - Prompt Engineering - Jira Rovo AI Automation - AI Agent Fundamentals - LLM Integration (OpenAI API) - Structured Outputs - Workflow Automation - Responsible / Governed AI Use
+Development (personal projects): Python - FastAPI - Streamlit - REST APIs - Git/GitHub - Testing & Error Handling - HTML/CSS/JavaScript - TypeScript - React - Next.js - Tailwind CSS - Supabase/PostgreSQL - SEO fundamentals
+Business & Solutions Analysis: Requirements Discovery - Workflow & Process Analysis - Solution Briefs & Design - Process Improvement - User Testing & Adoption Support - Stakeholder Communication - Technical Documentation - Power BI (university coursework)
+
+PROFESSIONAL EXPERIENCE
+ICT Support Officer | Lutheran Services | Aug 2024 - Present
+- Partner with 2,200+ users across 20+ locations to gather requirements, diagnose issues and translate business needs into practical, tested technology solutions supporting business-critical systems.
+- Manage and resolve approximately 100 support requests per week through Jira, analysing user needs and coordinating solutions with technical and non-technical stakeholders.
+- Apply Generative AI to operational IT workflows via AI-assisted Jira automation using Atlassian Rovo, identifying opportunities where automation improves service delivery.
+- Test, refine and document solutions before implementation, and support user adoption through practical training and guidance.
+- Deployed and configured 500+ Windows devices using Windows Autopilot and Intune.
+- Contributed to a Windows 11 rollout covering approximately 500 endpoints.
+- Administer Microsoft 365 (Entra ID, Exchange Online, Teams, SharePoint, OneDrive); manage accounts, permissions, mailboxes and endpoint configurations in line with data governance and security requirements.
+- Troubleshoot VPN, Wi-Fi, DNS, DHCP, printing and network connectivity issues while maintaining technical documentation, asset records and Microsoft Defender endpoint security.
+
+IT Support Technician | Tech Domain | Feb 2023 - Aug 2024
+- Gathered customer requirements, investigated technical issues and implemented appropriate hardware, software and infrastructure solutions across customer environments.
+- Participated in three enterprise deployment projects spanning desktops, laptops, servers, switches, routers and printers.
+- Delivered technical support and infrastructure services, diagnosing and resolving hardware, software and networking issues for a range of stakeholders.
+- Performed Windows deployments, hardware installations and infrastructure upgrades across customer sites.
+
+Cybersecurity Analyst Intern | SecureStack | Mar 2022 - Jun 2022
+- Assisted with vulnerability assessments, security reviews and technical documentation, building practical understanding of information security risk, data protection and secure technology practices.
+
+SELECTED PROJECTS (PERSONAL, PUBLIC ON GITHUB, 2026)
+AI Job Match Agent | github.com/Santo250499/job-match-agent
+- FastAPI application that compares résumé text with job requirements and returns structured, evidence-based match analysis, in a deterministic demo mode or an OpenAI-backed mode.
+- Uses Pydantic structured outputs, input validation, exception handling and environment-based configuration; pytest API tests run in a GitHub Actions CI workflow with a Docker build.
+
+AI Job Application Assistant | github.com/Santo250499/ai-job-application-assistant
+- Streamlit app that scores a résumé against a job description with local keyword heuristics, and uses the OpenAI API to draft cover letters, recruiter/LinkedIn messages, interview preparation and up to three CV rewrites, with PDF and text downloads.
+
+Microsoft 365 User Lifecycle (lab project) | github.com/Santo250499/m365-user-lifecycle
+- PowerShell toolkit for Entra ID / Microsoft 365 onboarding and offboarding with the Microsoft Graph PowerShell SDK: CSV onboarding (licences, groups, manager) and offboarding (block sign-in, revoke sessions, remove licences and groups).
+- -WhatIf and -Confirm on every change, least-privilege Graph scopes and Pester tests. Lab project with fictional @contoso.com users; not used in production.
+
+Claim Amount Calculator | github.com/Santo250499/ai-claim-amount-calculator
+- Streamlit app that classifies claim payment-status rows (rule-based), totals pending and paid amounts and exports CSV/XLSX; optional OpenAI image extraction for reading screenshots.
+
+AI Learning Lab | github.com/Santo250499/ai-learning-lab
+- Bootcamp exercises in Python and the OpenAI API, including a menu-driven résumé analyser (CLI), a chatbot and an email writer.
+
+AI Career Match Dashboard (archived) | github.com/Santo250499/ai-career-match-dashboard
+- Browser prototype (HTML/CSS/JS) that scores résumé and job-description overlap with client-side keyword rules; no AI API. Archived.
+
+EDUCATION
+Bachelor of Information Technology - Networks and Security | Griffith University, Gold Coast | Mar 2021 - Jul 2023
+GPA: 5.41 / 7.00
+- Relevant study: IT Service Management, Information Security Management, Network Security, Advanced Network Architecture, Routing and Internetworking, Digital Forensics.
+- Power BI & Data Analytics: completed university coursework/projects using Microsoft Power BI for data analysis, dashboard development and data visualisation.
+
+Bachelor of Information Technology | Central Queensland University, Melbourne | Mar 2020 - Feb 2021
+- Transferred to Griffith University after receiving the Academic Excellence Scholarship.
+
+ACS Professional Year Program - ICT | QIBA, Brisbane | May 2024 - Present
+- Australian work-readiness program covering professional communication, workplace practices, report writing, networking and career development.
+
+CERTIFICATIONS & MEMBERSHIP
+Cisco Certified Network Associate (CCNA), 2023 - Certified Ethical Hacker (CEH), 2024 - Australian Computer Society (ACS) Member

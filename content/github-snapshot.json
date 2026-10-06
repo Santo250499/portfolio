@@ -1,0 +1,409 @@
+{
+  "username": "Santo250499",
+  "fetchedAt": "2026-10-06T00:57:10.238Z",
+  "repos": [
+    {
+      "id": 1333061491,
+      "name": "job-match-agent",
+      "description": "Structured FastAPI job-match analysis agent with validation, transparent scoring and automated tests.",
+      "html_url": "https://github.com/Santo250499/job-match-agent",
+      "homepage": "",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "automation",
+        "fastapi",
+        "job-matching",
+        "openai",
+        "pydantic",
+        "pytest",
+        "python"
+      ],
+      "pushed_at": "2026-10-05T21:54:18Z",
+      "created_at": "2026-08-13T11:52:33Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1405561679,
+      "name": "m365-user-lifecycle",
+      "description": "PowerShell scripts for Microsoft 365 / Entra ID user onboarding and offboarding using the Microsoft Graph PowerShell SDK.",
+      "html_url": "https://github.com/Santo250499/m365-user-lifecycle",
+      "homepage": null,
+      "language": "PowerShell",
+      "topics": [],
+      "pushed_at": "2026-10-05T10:44:16Z",
+      "created_at": "2026-10-05T10:23:22Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1293319203,
+      "name": "ai-claim-amount-calculator",
+      "description": "Streamlit tool that classifies claim payment-status rows from paste, Excel/CSV or screenshots, totals pending and paid amounts, and exports CSV/XLSX.",
+      "html_url": "https://github.com/Santo250499/ai-claim-amount-calculator",
+      "homepage": "",
+      "language": "Python",
+      "topics": [
+        "automation",
+        "excel",
+        "openai",
+        "openpyxl",
+        "pandas",
+        "python",
+        "streamlit"
+      ],
+      "pushed_at": "2026-10-05T10:31:16Z",
+      "created_at": "2026-07-08T08:41:41Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1405561912,
+      "name": "Santo250499",
+      "description": "GitHub profile README",
+      "html_url": "https://github.com/Santo250499/Santo250499",
+      "homepage": null,
+      "language": null,
+      "topics": [],
+      "pushed_at": "2026-10-05T10:29:20Z",
+      "created_at": "2026-10-05T10:23:35Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1293204638,
+      "name": "ai-job-application-assistant",
+      "description": "Streamlit app for resume and job description analysis, tone-selectable cover letters, LinkedIn messages and interview questions using OpenAI.",
+      "html_url": "https://github.com/Santo250499/ai-job-application-assistant",
+      "homepage": "",
+      "language": "Python",
+      "topics": [
+        "ats",
+        "cover-letter",
+        "job-search",
+        "openai",
+        "python",
+        "streamlit"
+      ],
+      "pushed_at": "2026-10-05T10:29:20Z",
+      "created_at": "2026-07-08T07:14:46Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1295115207,
+      "name": "ai-career-match-dashboard",
+      "description": "Browser dashboard that scores resume and job description overlap with client-side keyword rules (HTML/CSS/JS).",
+      "html_url": "https://github.com/Santo250499/ai-career-match-dashboard",
+      "homepage": "",
+      "language": "JavaScript",
+      "topics": [
+        "css",
+        "github-pages",
+        "html",
+        "javascript",
+        "job-search"
+      ],
+      "pushed_at": "2026-10-05T10:01:50Z",
+      "created_at": "2026-07-09T11:05:39Z",
+      "archived": true,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1288327652,
+      "name": "ai-learning-lab",
+      "description": "Personal Python and OpenAI bootcamp exercises: resume analyser, chatbot, email writer and practice scripts.",
+      "html_url": "https://github.com/Santo250499/ai-learning-lab",
+      "homepage": "",
+      "language": "Python",
+      "topics": [
+        "bootcamp",
+        "dotenv",
+        "learning",
+        "openai",
+        "python",
+        "requests"
+      ],
+      "pushed_at": "2026-10-05T09:36:24Z",
+      "created_at": "2026-07-03T13:46:33Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    }
+  ],
+  "events": [
+    {
+      "id": "23102519318",
+      "type": "PushEvent",
+      "created_at": "2026-10-05T21:54:20Z",
+      "repo": "Santo250499/job-match-agent",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/job-match-agent"
+    },
+    {
+      "id": "16492147734",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T21:54:18Z",
+      "repo": "Santo250499/job-match-agent",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/job-match-agent"
+    },
+    {
+      "id": "23066576112",
+      "type": "PushEvent",
+      "created_at": "2026-10-05T10:31:17Z",
+      "repo": "Santo250499/ai-claim-amount-calculator",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-claim-amount-calculator"
+    },
+    {
+      "id": "23066370106",
+      "type": "PushEvent",
+      "created_at": "2026-10-05T10:29:23Z",
+      "repo": "Santo250499/job-match-agent",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/job-match-agent"
+    },
+    {
+      "id": "23063414358",
+      "type": "PushEvent",
+      "created_at": "2026-10-05T10:01:50Z",
+      "repo": "Santo250499/ai-career-match-dashboard",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-career-match-dashboard"
+    },
+    {
+      "id": "23051514150",
+      "type": "PushEvent",
+      "created_at": "2026-10-05T10:44:18Z",
+      "repo": "Santo250499/m365-user-lifecycle",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/m365-user-lifecycle"
+    },
+    {
+      "id": "16442123169",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:44:17Z",
+      "repo": "Santo250499/m365-user-lifecycle",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/m365-user-lifecycle"
+    },
+    {
+      "id": "16442063178",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:43:25Z",
+      "repo": "Santo250499/m365-user-lifecycle",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/m365-user-lifecycle"
+    },
+    {
+      "id": "16441249911",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:31:16Z",
+      "repo": "Santo250499/ai-claim-amount-calculator",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-claim-amount-calculator"
+    },
+    {
+      "id": "16441119361",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:29:21Z",
+      "repo": "Santo250499/job-match-agent",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/job-match-agent"
+    },
+    {
+      "id": "16441118360",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:29:21Z",
+      "repo": "Santo250499/ai-job-application-assistant",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-job-application-assistant"
+    },
+    {
+      "id": "23050450765",
+      "type": "PushEvent",
+      "created_at": "2026-10-05T10:29:22Z",
+      "repo": "Santo250499/ai-job-application-assistant",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-job-application-assistant"
+    },
+    {
+      "id": "16441117250",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:29:20Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "16440957923",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:27:02Z",
+      "repo": "Santo250499/job-match-agent",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/job-match-agent"
+    },
+    {
+      "id": "16440939776",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:26:46Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "23050042564",
+      "type": "CreateEvent",
+      "created_at": "2026-10-05T10:23:38Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "23050026300",
+      "type": "CreateEvent",
+      "created_at": "2026-10-05T10:23:24Z",
+      "repo": "Santo250499/m365-user-lifecycle",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/m365-user-lifecycle"
+    },
+    {
+      "id": "16440704502",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:23:22Z",
+      "repo": "Santo250499/ai-claim-amount-calculator",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-claim-amount-calculator"
+    },
+    {
+      "id": "16440690232",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:23:09Z",
+      "repo": "Santo250499/ai-job-application-assistant",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-job-application-assistant"
+    },
+    {
+      "id": "23049848708",
+      "type": "PushEvent",
+      "created_at": "2026-10-05T09:36:26Z",
+      "repo": "Santo250499/ai-claim-amount-calculator",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-claim-amount-calculator"
+    },
+    {
+      "id": "23049310404",
+      "type": "PushEvent",
+      "created_at": "2026-10-05T10:13:29Z",
+      "repo": "Santo250499/ai-job-application-assistant",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-job-application-assistant"
+    },
+    {
+      "id": "16440002187",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:13:27Z",
+      "repo": "Santo250499/ai-job-application-assistant",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-job-application-assistant"
+    },
+    {
+      "id": "16439661899",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T10:08:49Z",
+      "repo": "Santo250499/ai-job-application-assistant",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-job-application-assistant"
+    },
+    {
+      "id": "16437337773",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T09:36:25Z",
+      "repo": "Santo250499/ai-claim-amount-calculator",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-claim-amount-calculator"
+    },
+    {
+      "id": "23046621359",
+      "type": "PushEvent",
+      "created_at": "2026-10-05T09:36:26Z",
+      "repo": "Santo250499/ai-learning-lab",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-learning-lab"
+    },
+    {
+      "id": "16437336113",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T09:36:25Z",
+      "repo": "Santo250499/ai-learning-lab",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-learning-lab"
+    },
+    {
+      "id": "16437191016",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T09:34:29Z",
+      "repo": "Santo250499/ai-claim-amount-calculator",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-claim-amount-calculator"
+    },
+    {
+      "id": "16437157077",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-05T09:34:02Z",
+      "repo": "Santo250499/ai-learning-lab",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-learning-lab"
+    }
+  ]
+}
