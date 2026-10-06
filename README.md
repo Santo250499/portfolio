@@ -54,7 +54,7 @@ Run `node scripts/sync-github.mjs` before a build to refresh the GitHub snapshot
 
 1. Import this repository in Vercel as a Next.js project.
 2. Set `NEXT_PUBLIC_SITE_URL` to the production URL (no trailing slash).
-3. Vercel runs `npm run build`; `vercel.json` sets the output directory to `out/` and adds basic security headers.
+3. Vercel runs `npm run build` with the Next.js preset. Leave the output directory at the default (`.next`); `vercel.json` adds basic security headers.
 4. After the first deploy, check canonical URLs and `/sitemap.xml`.
 
 ## Honesty notes
