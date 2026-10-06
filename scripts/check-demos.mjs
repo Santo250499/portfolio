@@ -1,0 +1,17 @@
+import assert from 'node:assert/strict';
+import {claimRows,matchPreview,sampleClaims,sampleResume,sampleJob} from '../lib/demo.ts';
+const rows=claimRows(sampleClaims);
+assert.equal(rows.reduce((s,r)=>s+r.pending,0),312527);
+assert.equal(rows.reduce((s,r)=>s+r.paid,0),50000);
+assert.equal(claimRows('pending no paid $500')[0].pending,0);
+assert.equal(claimRows('pending no paid $500')[0].paid,0);
+assert.equal(claimRows('paid $-500')[0].category,'Review required');
+assert.equal(claimRows('pending $0.29\npending $0.01').reduce((s,r)=>s+r.pending,0),30);
+assert.equal(claimRows('pending\n\nignore')[1].category,'Blank row');
+assert.throws(()=>claimRows('   '));
+assert.throws(()=>matchPreview('short',sampleJob));
+assert.throws(()=>matchPreview(sampleResume,sampleResume));
+assert.equal(matchPreview(sampleResume,sampleJob).missing.includes('Docker'),true);
+assert.equal(matchPreview('A candidate with GitHub experience and a portfolio of useful work.','A role requiring Git and excellent communication with users.').matched.includes('Git'),false);
+assert.equal(matchPreview('A candidate with customer communication and service skills.','A role needing excellent gardening and landscape design skills.').coverage,null);
+console.log('12 demo checks passed: totals, cents, ambiguous rows, validation and phrase boundaries.');

@@ -1,0 +1,5 @@
+import {PageIntro} from '@/components/ui';
+import {SkillsGrid} from '@/components/sections';
+import {pageMeta} from '@/content/metadata';
+export const metadata=pageMeta('Technical Skills','Enterprise IT and systems skills (Microsoft 365, Intune, Entra ID, PowerShell), plus AI, Python, and web development from personal projects.','/skills/');
+export default function Skills(){return <div className="container page-bottom"><PageIntro kicker="THE TOOLKIT" title="Skills with a purpose."><p>Enterprise IT and systems work is my professional foundation. AI, automation and software development are my growing focus. Projects and case studies show how these capabilities come together.</p></PageIntro><h2 className="sr-only">Technical capabilities</h2><SkillsGrid/><div className="evidence-note">No percentage bars or implied mastery. Web development and SEO skills come from my personal projects, not employment. Items under “Currently Learning” are not yet used in a published project. The project collection provides the available evidence.</div></div>}

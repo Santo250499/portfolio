@@ -1,0 +1,16 @@
+# dependencies and build output
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts.bak
+
+# environment files (keep the placeholder example)
+.env*
+!.env.example
+
+# local tooling
+.openai/
+.sites-runtime/
+.vercel/
+.DS_Store
