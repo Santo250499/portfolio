@@ -1,6 +1,6 @@
 MD TANVIR MANNAN
 ICT SUPPORT & SYSTEMS PROFESSIONAL | BUILDING AI AND AUTOMATION TOOLS
-Gold Coast, QLD  |  mdtanvirmannan@gmail.com  |  linkedin.com/in/md-tanvir-mannan-517839217  |  github.com/Santo250499
+Gold Coast, QLD  |  mdtanvirmannan@gmail.com  |  linkedin.com/in/mdtanvirmannan  |  github.com/Santo250499
 
 PROFESSIONAL SUMMARY
 ICT support professional with 3.5+ years in IT support, currently supporting 2,200+ users across 20+ Lutheran Services sites as an ICT Support Officer (since Aug 2024). Works across Microsoft 365, Entra ID, Intune and Windows Autopilot; has deployed and configured 500+ Windows devices, contributed to a Windows 11 rollout of approximately 500 endpoints, and manages approximately 100 Jira support requests a week. Applies AI-assisted automation to Jira service workflows using Atlassian Rovo and works directly with staff to turn day-to-day operational problems into tested, documented solutions. Outside work, builds AI and automation tools in Python, FastAPI, Streamlit and PowerShell, including a résumé-to-job matching API, an AI job application assistant, a claim payment-status calculator and a lab PowerShell toolkit for Microsoft 365 user onboarding and offboarding. Open to IT support, systems administration and AI or automation roles.
