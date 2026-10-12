@@ -1,28 +1,42 @@
 {
   "username": "Santo250499",
-  "fetchedAt": "2026-10-08T14:16:29.741Z",
+  "fetchedAt": "2026-10-12T10:11:21.742Z",
   "repos": [
     {
-      "id": 1288327652,
-      "name": "ai-learning-lab",
-      "description": "Personal Python and OpenAI bootcamp exercises: resume analyser, chatbot, email writer and practice scripts.",
-      "html_url": "https://github.com/Santo250499/ai-learning-lab",
-      "homepage": "",
-      "language": "Python",
+      "id": 1406999237,
+      "name": "portfolio",
+      "description": "Personal portfolio site built with Next.js, TypeScript and Tailwind CSS.",
+      "html_url": "https://github.com/Santo250499/portfolio",
+      "homepage": "https://tanvirmannan.vercel.app",
+      "language": "TypeScript",
       "topics": [
-        "bootcamp",
-        "dotenv",
-        "learning",
-        "openai",
-        "python",
-        "requests"
+        "nextjs",
+        "portfolio",
+        "tailwindcss",
+        "typescript"
       ],
-      "pushed_at": "2026-10-08T14:16:21Z",
-      "created_at": "2026-07-03T13:46:33Z",
+      "pushed_at": "2026-10-11T12:33:41Z",
+      "created_at": "2026-10-06T08:59:41Z",
       "archived": false,
       "fork": false,
       "stargazers_count": 0,
-      "open_issues_count": 1,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1405561912,
+      "name": "Santo250499",
+      "description": "GitHub profile README",
+      "html_url": "https://github.com/Santo250499/Santo250499",
+      "homepage": null,
+      "language": null,
+      "topics": [],
+      "pushed_at": "2026-10-11T12:10:28Z",
+      "created_at": "2026-10-05T10:23:35Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
       "default_branch": "main"
     },
     {
@@ -41,24 +55,8 @@
         "python",
         "streamlit"
       ],
-      "pushed_at": "2026-10-08T14:16:07Z",
+      "pushed_at": "2026-10-08T14:57:33Z",
       "created_at": "2026-07-08T08:41:41Z",
-      "archived": false,
-      "fork": false,
-      "stargazers_count": 0,
-      "open_issues_count": 1,
-      "default_branch": "main"
-    },
-    {
-      "id": 1405561912,
-      "name": "Santo250499",
-      "description": "GitHub profile README",
-      "html_url": "https://github.com/Santo250499/Santo250499",
-      "homepage": null,
-      "language": null,
-      "topics": [],
-      "pushed_at": "2026-10-06T10:12:46Z",
-      "created_at": "2026-10-05T10:23:35Z",
       "archived": false,
       "fork": false,
       "stargazers_count": 0,
@@ -66,20 +64,22 @@
       "default_branch": "main"
     },
     {
-      "id": 1406999237,
-      "name": "portfolio",
-      "description": "Personal portfolio site built with Next.js, TypeScript and Tailwind CSS.",
-      "html_url": "https://github.com/Santo250499/portfolio",
-      "homepage": "https://portfolio-tanvir-2923.vercel.app",
-      "language": "TypeScript",
+      "id": 1288327652,
+      "name": "ai-learning-lab",
+      "description": "Personal Python and OpenAI bootcamp exercises: resume analyser, chatbot, email writer and practice scripts.",
+      "html_url": "https://github.com/Santo250499/ai-learning-lab",
+      "homepage": "",
+      "language": "Python",
       "topics": [
-        "nextjs",
-        "portfolio",
-        "tailwindcss",
-        "typescript"
+        "bootcamp",
+        "dotenv",
+        "learning",
+        "openai",
+        "python",
+        "requests"
       ],
-      "pushed_at": "2026-10-06T09:55:47Z",
-      "created_at": "2026-10-06T08:59:41Z",
+      "pushed_at": "2026-10-08T14:18:07Z",
+      "created_at": "2026-07-03T13:46:33Z",
       "archived": false,
       "fork": false,
       "stargazers_count": 0,
@@ -181,6 +181,141 @@
     }
   ],
   "events": [
+    {
+      "id": "16942941227",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-11T12:33:41Z",
+      "repo": "Santo250499/portfolio",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "23685032694",
+      "type": "PushEvent",
+      "created_at": "2026-10-11T12:33:43Z",
+      "repo": "Santo250499/portfolio",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "16942128842",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-11T12:10:43Z",
+      "repo": "Santo250499/portfolio",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "16942120923",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-11T12:10:28Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "16942101602",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-11T12:09:56Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "23500997436",
+      "type": "PushEvent",
+      "created_at": "2026-10-08T14:56:48Z",
+      "repo": "Santo250499/portfolio",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "23498020931",
+      "type": "PushEvent",
+      "created_at": "2026-10-08T14:57:34Z",
+      "repo": "Santo250499/ai-claim-amount-calculator",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-claim-amount-calculator"
+    },
+    {
+      "id": "23423139608",
+      "type": "PushEvent",
+      "created_at": "2026-10-08T14:19:29Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "16740033579",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-08T14:57:33Z",
+      "repo": "Santo250499/ai-claim-amount-calculator",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-claim-amount-calculator"
+    },
+    {
+      "id": "16738729047",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-08T14:56:47Z",
+      "repo": "Santo250499/portfolio",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "16738178535",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-08T14:19:28Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "23381539648",
+      "type": "PushEvent",
+      "created_at": "2026-10-08T14:18:09Z",
+      "repo": "Santo250499/ai-learning-lab",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-learning-lab"
+    },
+    {
+      "id": "16735383864",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-08T14:18:46Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "16735329421",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-08T14:18:07Z",
+      "repo": "Santo250499/ai-learning-lab",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/ai-learning-lab"
+    },
+    {
+      "id": "16735255370",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-08T14:17:20Z",
+      "repo": "Santo250499/portfolio",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
     {
       "id": "16735179097",
       "type": "PullRequestEvent",
