@@ -1,7 +1,70 @@
 {
   "username": "Santo250499",
-  "fetchedAt": "2026-10-12T10:11:21.742Z",
+  "fetchedAt": "2026-10-15T08:39:23.282Z",
   "repos": [
+    {
+      "id": 1405561912,
+      "name": "Santo250499",
+      "description": "GitHub profile README",
+      "html_url": "https://github.com/Santo250499/Santo250499",
+      "homepage": null,
+      "language": null,
+      "topics": [],
+      "pushed_at": "2026-10-15T08:38:40Z",
+      "created_at": "2026-10-05T10:23:35Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1415622011,
+      "name": "payer-portal-bot",
+      "description": "Demo: Playwright (Python) RPA bot that logs in to a mock payer portal, checks claim statuses from a CSV, and writes CSV/SQLite with retries, error screenshots and logging. PAD/UiPath mapping documented. Synthetic data only.",
+      "html_url": "https://github.com/Santo250499/payer-portal-bot",
+      "homepage": "",
+      "language": "Python",
+      "topics": [
+        "automation",
+        "flask",
+        "healthcare",
+        "playwright",
+        "python",
+        "rpa"
+      ],
+      "pushed_at": "2026-10-13T01:23:50Z",
+      "created_at": "2026-10-12T13:11:24Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1415621716,
+      "name": "claim-denial-triage",
+      "description": "Demo: HIPAA-minded FastAPI webhook that masks PHI, classifies claim denials (CARC/RARC) and drafts appeals via a pluggable LLM with rule-based fallback, plus SQLite and an append-only audit log. Synthetic data only.",
+      "html_url": "https://github.com/Santo250499/claim-denial-triage",
+      "homepage": "",
+      "language": "HTML",
+      "topics": [
+        "automation",
+        "fastapi",
+        "healthcare",
+        "hipaa",
+        "llm",
+        "python",
+        "webhook"
+      ],
+      "pushed_at": "2026-10-13T01:22:31Z",
+      "created_at": "2026-10-12T13:11:09Z",
+      "archived": false,
+      "fork": false,
+      "stargazers_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main"
+    },
     {
       "id": 1406999237,
       "name": "portfolio",
@@ -15,24 +78,8 @@
         "tailwindcss",
         "typescript"
       ],
-      "pushed_at": "2026-10-11T12:33:41Z",
+      "pushed_at": "2026-10-12T13:54:57Z",
       "created_at": "2026-10-06T08:59:41Z",
-      "archived": false,
-      "fork": false,
-      "stargazers_count": 0,
-      "open_issues_count": 0,
-      "default_branch": "main"
-    },
-    {
-      "id": 1405561912,
-      "name": "Santo250499",
-      "description": "GitHub profile README",
-      "html_url": "https://github.com/Santo250499/Santo250499",
-      "homepage": null,
-      "language": null,
-      "topics": [],
-      "pushed_at": "2026-10-11T12:10:28Z",
-      "created_at": "2026-10-05T10:23:35Z",
       "archived": false,
       "fork": false,
       "stargazers_count": 0,
@@ -181,6 +228,168 @@
     }
   ],
   "events": [
+    {
+      "id": "17282513516",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-15T08:38:48Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "24010452427",
+      "type": "PushEvent",
+      "created_at": "2026-10-13T01:23:49Z",
+      "repo": "Santo250499/payer-portal-bot",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/payer-portal-bot"
+    },
+    {
+      "id": "23938465843",
+      "type": "CreateEvent",
+      "created_at": "2026-10-13T01:23:50Z",
+      "repo": "Santo250499/payer-portal-bot",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/payer-portal-bot"
+    },
+    {
+      "id": "23937744195",
+      "type": "CreateEvent",
+      "created_at": "2026-10-12T13:12:15Z",
+      "repo": "Santo250499/claim-denial-triage",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/claim-denial-triage"
+    },
+    {
+      "id": "23936877436",
+      "type": "CreateEvent",
+      "created_at": "2026-10-13T01:19:52Z",
+      "repo": "Santo250499/payer-portal-bot",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/payer-portal-bot"
+    },
+    {
+      "id": "23934013608",
+      "type": "PushEvent",
+      "created_at": "2026-10-13T00:45:18Z",
+      "repo": "Santo250499/claim-denial-triage",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/claim-denial-triage"
+    },
+    {
+      "id": "23916844537",
+      "type": "PushEvent",
+      "created_at": "2026-10-12T13:54:58Z",
+      "repo": "Santo250499/portfolio",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "23831435898",
+      "type": "PushEvent",
+      "created_at": "2026-10-11T12:10:30Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "23827357166",
+      "type": "PushEvent",
+      "created_at": "2026-10-13T01:22:32Z",
+      "repo": "Santo250499/claim-denial-triage",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/claim-denial-triage"
+    },
+    {
+      "id": "17015486719",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-12T13:22:23Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "17012405348",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-12T13:54:57Z",
+      "repo": "Santo250499/portfolio",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "23778347274",
+      "type": "PushEvent",
+      "created_at": "2026-10-12T13:22:25Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "17009390980",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-12T13:23:52Z",
+      "repo": "Santo250499/portfolio",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "17009193465",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-12T13:22:01Z",
+      "repo": "Santo250499/Santo250499",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/Santo250499"
+    },
+    {
+      "id": "23777398080",
+      "type": "CreateEvent",
+      "created_at": "2026-10-12T13:12:16Z",
+      "repo": "Santo250499/payer-portal-bot",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/payer-portal-bot"
+    },
+    {
+      "id": "23764827604",
+      "type": "PushEvent",
+      "created_at": "2026-10-12T10:12:54Z",
+      "repo": "Santo250499/portfolio",
+      "action": "",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "16996831692",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-12T10:12:53Z",
+      "repo": "Santo250499/portfolio",
+      "action": "merged",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
+    {
+      "id": "16996780640",
+      "type": "PullRequestEvent",
+      "created_at": "2026-10-12T10:12:05Z",
+      "repo": "Santo250499/portfolio",
+      "action": "opened",
+      "merged": false,
+      "url": "https://github.com/Santo250499/portfolio"
+    },
     {
       "id": "16942941227",
       "type": "PullRequestEvent",
